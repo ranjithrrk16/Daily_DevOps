@@ -1,0 +1,17 @@
+
+1.what are Jenkins shared libraries and how do they work?
+2.talk about 5 build targets that you use on day to day basis?
+3.which artifact repository do you use for builds?
+4.how do you configure artifactory for your application in maven?
+5.Build passed locally but fails in CI, how will you troubleshoot?
+6.CI pipeline succeeds but App is broken in prod, what action will you take?
+7.Pipeline slows down over time (builds taking more time)- how will you fix?
+8.A developer pushes a feature branch, but the pipeline does’t trigger.
+9.Your build fails because it can’t download a dependency from your artifact repos.
+10.Your build fails because it can’t download a dependency from your artifact repos
+11.Python builds fails on CI but works locally, what can be the issue?
+12.explain python application build process in detail.
+13.using static code analysis what kind of problems can you indentify?
+14.static code analysis slows down CI pipeline, how will you fix it?
+15.App in ‘OutOfSyn’ state in Argo CD, But No Git Changes
+16.When a build fails in Jenkins, how will you send a email?

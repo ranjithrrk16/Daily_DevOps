@@ -1,0 +1,14 @@
+1. Explain a scenario where you used Git fork instead of Git clone
+2. Git rebase vs Git Merge detailed explanation
+3. Git Branching strategies that you used in your company
+4. Explain 3 challenges that you faced with Git during your work experience
+5. Explain the recent challenge that you faced with Git and how did you address it
+6. How did you handle merge conflicts in Git
+7. Explain Git Merge strategies - ours and theirs strategies
+8. Have you ever used Git tags? If yes why ?
+9. How do you combine multiple commits into a single commit?
+10. Explain 10 Git commands that you use on Day to Day basis?
+11. I want to ignore pushing changes to a file to Git, How can you do it ?
+12. What is the purpose of .git folder in a Git repository?
+13. Can you restore a deleted .git folder?
+14. A teammate accidentally committed a Kubernetes secret (base64 encoded) to Git.
